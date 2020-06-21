@@ -1,0 +1,4 @@
+# npx knex --knexfile knexfile.ts migrate:latest                         -CRIAR/ATUALIZAR O BD
+# npx knex migrate:rollback                                              -ROLLBACK DAS MIGRATIONS RODADAS
+# npx knex --knexfile knexfile.ts seed:run                               -RODA AS SEEDS
+
