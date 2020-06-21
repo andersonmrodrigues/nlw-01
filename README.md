@@ -57,7 +57,7 @@ From your command line:
 $ git clone https://github.com/andersonmrodrigues/nlw-01
 
 # Go into the repository
-$ cd NLW-1.0/backend
+$ cd nlw-01/backend
 
 # Install dependencies
 $ yarn install
@@ -81,7 +81,7 @@ $ yarn dev
 $ git clone https://github.com/andersonmrodrigues/nlw-01
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd nlw-01/frontent
 
 # Install dependencies
 $ yarn install
@@ -99,7 +99,7 @@ $ yarn start
 $ git clone https://github.com/andersonmrodrigues/nlw-01
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd nlw-01/mobile
 
 # Install dependencies
 $ yarn install
