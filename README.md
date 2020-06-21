@@ -54,7 +54,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/andersonmrodrigues/nlw-01
 
 # Go into the repository
 $ cd NLW-1.0/backend
@@ -78,7 +78,7 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/andersonmrodrigues/nlw-01
 
 # Go into the repository
 $ cd NLW-1.0/frontent
@@ -96,7 +96,7 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/andersonmrodrigues/nlw-01
 
 # Go into the repository
 $ cd NLW-1.0/mobile
@@ -125,7 +125,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/DanielObara/NLW-1.0/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/andersonmrodrigues/nlw-01/blob/master/LICENSE) for details.
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
